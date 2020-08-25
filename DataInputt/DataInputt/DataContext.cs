@@ -1,5 +1,5 @@
 ﻿using DataInputt.Models;
-using System.Data.Entity;
+using Microsoft.EntityFrameworkCore;
 
 namespace DataInputt
 {
